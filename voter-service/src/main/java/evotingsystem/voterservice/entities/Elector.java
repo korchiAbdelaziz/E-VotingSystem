@@ -17,7 +17,10 @@ import java.util.Date;
  * @version 1.0.0
  */
 @Entity
-@Table(name = "electors")
+@Table(name = "electors", indexes = {
+    @Index(name = "idx_identifiant_securise", columnList = "identifiantSecurise"),
+    @Index(name = "idx_a_vote", columnList = "aVote")
+})
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
