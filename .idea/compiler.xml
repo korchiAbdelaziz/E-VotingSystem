@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="vote-service" />
         <module name="result-service" />
+        <module name="eureka-server" />
         <module name="result-service (2)" />
         <module name="result-service (1)" />
       </profile>
@@ -25,6 +26,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-server" options="-parameters" />
       <module name="result-service" options="-parameters" />
       <module name="result-service (1)" options="-parameters" />
       <module name="result-service (2)" options="-parameters" />

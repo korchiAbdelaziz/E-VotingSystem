@@ -4,6 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/voter-service/pom.xml" />
         <option value="$PROJECT_DIR$/vote-service/pom.xml" />
         <option value="$PROJECT_DIR$/result-service/pom.xml" />
