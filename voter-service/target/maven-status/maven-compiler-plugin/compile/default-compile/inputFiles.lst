@@ -1,0 +1,12 @@
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\entities\Elector.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\dtos\ElectorDTO.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\dtos\ElectorResponse.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\services\ElectorService.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\dtos\ElectorRequest.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\VoterServiceApplication.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\repositories\ElectorRepository.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\exceptions\ElectorAlreadyExistsException.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\controllers\GlobalExceptionHandler.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\services\ElectorServiceImpl.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\exceptions\ElectorNotFoundException.java
+C:\Users\Korchi Abdelaziz\Desktop\5IIR\Projet ACE\voter-service\src\main\java\evotingsystem\voterservice\controllers\ElectorController.java

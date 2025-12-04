@@ -7,10 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="vote-service" />
-        <module name="result-service" />
-        <module name="result-service (2)" />
-        <module name="result-service (1)" />
       </profile>
       <profile name="Annotation profile for voter-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -25,10 +21,6 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="result-service" options="-parameters" />
-      <module name="result-service (1)" options="-parameters" />
-      <module name="result-service (2)" options="-parameters" />
-      <module name="vote-service" options="-parameters" />
       <module name="voter-service" options="-parameters" />
     </option>
   </component>
